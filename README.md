@@ -37,9 +37,9 @@ pip install -r requirements.txt
 ## How to build the code
 No build process is required for this project, as it is a standalone Python script. However, creating and activating a virtual environment is recommended before running it.
 ## How to run the output
-1. Create a folder called src. (recommended) 
-1. Clone this repository or download the project files into src folder.
-2. Open a terminal/command prompt and navigate to the project folder.
+1. Create a folder called src. (Recommended but not required)
+1. Clone this repository or download the project files into src folder or a folder of choice.
+2. Open a terminal/command prompt and navigate to the folder.
 3. Create and Activate the virtual environment. (Recommended but not required)
 4. Install dependencies
 5. Run the script using the following command:
