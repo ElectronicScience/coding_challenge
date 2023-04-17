@@ -46,14 +46,14 @@ No build process is required for this project, as it is a standalone Python scri
 
 For Both windows and Linux-based systems:
 
-**Tip: Run from with in the src folder**
+**Tip: Run from with in the src/download folder**
 
 ```
 python coding_challenge_run.py
 ```
 ## How to run tests
 
-**Tip: Run from with in the src folder**
+**Tip: Run from with in the src/download folder**
 
 ```
 python -m unittest ./tests/test_coding_challenge.py
