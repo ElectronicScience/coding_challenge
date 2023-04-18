@@ -2,6 +2,22 @@
 This is a Python script project that fetches data from the National Archives API using a given record ID (UUID) and displays the record title, description, or citable reference in return.
 ## Prerequisites
 - Python 3.6 or higher
+
+## Recommended directory layout
+
+    .
+    ├── env                               # Virtual environment folder
+    ├── src                               # Source files (recommended folder to download code)
+        ├── tests                         # Automated tests folder
+            ├── data                      # Automated tests data folder
+                └── test_data.json        # Automated tests data
+            └── test_coding_challenge.py  # Automated tests
+        ├── coding_challenge_run.py       # File to execute     
+        ├── coding_challenge.py           # Main file
+        ├── utils.py                      # Utilities file
+        └── requirements.txt              # Requirements to install
+        
+        
 ## Create a virtual environment (recommended)
 Before running the script, setting up a virtual environment to manage the project's dependencies is recommended.
 
